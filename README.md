@@ -77,8 +77,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebai-dhia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebai-dhia&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" width="350"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=sebai-dhia&show_icons=true&theme=tokyonight&hide_border=true&hide=language" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebai-dhia&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" width="450"/>
 </div>
 
 ---
