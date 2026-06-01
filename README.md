@@ -1,101 +1,167 @@
-<h1 align="center"><b>Hi, I'm Sebai Dhia Eddin 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineer;Kotlin+%7C+Java+Specialist;Back-End+Development+Enthusiast;Continuous+Learner+%26+Team+Contributor;Always+ready+for+new+challenges!"></a>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
+
+# Sebai Dhia Eddin
+
+#### `Software Engineer` · `Kotlin & Java Specialist` · `Backend Systems`
+
+<img src="https://img.shields.io/badge/-Building%20reliable%20backend%20systems%20with%20clean%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=0095D5" alt="tagline"/>
+
+<br/>
+
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=0095D5&size=18&center=true&vCenter=true&width=600&height=60&lines=Kotlin+%26+Java+Backend+Engineer;Clean+Code+%7C+Testing+%7C+Performance;Building+reliable+systems+that+scale" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/sebai-dhia-eddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dhiaeddin.sebai.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sebai-dhiaeddin.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
 </p>
 
-<br>
-
-## 🧑‍💻 About Me
-
-- 👨‍💻 Experienced Software Engineer
-- ⚙️ Backend-focused with Kotlin & Java
-- 🔁 RESTful APIs & SOAP Integration
-- 🧪 Passionate about Clean Code, Testing & Performance
-- 🧩 Contributor to team projects – always learning
-- 🚀 Advocating for agile practices and engineering excellence
-
----
-
-## 🛠️ Tech Stack
-
-### 🧠 Core Languages & APIs
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23007ec6?style=for-the-badge)
-![SOAP](https://img.shields.io/badge/SOAP-%23007ec6?style=for-the-badge)
-
-
-### ⚙️ Backend Frameworks & Middleware
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
-![Exposed](https://img.shields.io/badge/Exposed_Core-0.54-blueviolet?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge&logo=hibernate&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-### 🧪 Testing
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
-![Mockito](https://img.shields.io/badge/Mockito-Mocks-blue?style=for-the-badge)
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white)
-
-
-### 🗄️ Data & Persistence
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-0094D1?style=for-the-badge&logo=apache&logoColor=white)
-
-
-### 💻 Dev & Ops Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea)
-![Squirrel SQL](https://img.shields.io/badge/Squirrel_SQL-Tool-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗂️ Version Control Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![SVN](https://img.shields.io/badge/Subversion-SVN-blue?style=for-the-badge)
-
-### 📋 Workflow
-![Agile Scrum](https://img.shields.io/badge/Agile-Scrum-blueviolet?style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=sebai-dhia&show_icons=true&theme=tokyonight&hide_border=true&" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebai-dhia&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" width="350"/>
 </div>
 
----
+<!-- ====================== ABOUT ====================== -->
+## 👨‍💻 About Me
 
-## 🤝 Let’s Connect!
+```kotlin
+val dhia = Engineer(
+  role     = "Software Engineer",
+  location = "🇹🇳 Tunisia",
+  focus    = listOf("Backend systems", "Clean architecture", "API design"),
+  loves    = listOf("Coding", "Testing", "Performance tuning", "Agile"),
+  motto    = "Write it clean, test it well, ship it with confidence.",
+)
+```
 
-<div align="left">
-  <ul>
-    <li>
-      <a href="https://www.linkedin.com/in/sebai-dhia-eddin/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </li>
-    <li>
-      <a href="mailto:dhiaeddin.sebai@etudiant-enit.utm.tn">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </li>
-  </ul>
+- ⚙️ Backend-focused engineer specializing in **Kotlin & Java** with Spring Boot
+- 🧪 Passionate about **testing culture** — unit, integration, and end-to-end
+- 🔁 Experienced with **RESTful APIs & SOAP** integrations in production environments
+- 🚀 Advocate for **agile practices** and engineering excellence in team settings
+- 🧩 Always learning, always contributing
+
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,ts,python&theme=dark"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Build Tools</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gradle,maven&theme=dark"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Testing</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mockito-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,js,html,css,tailwind&theme=dark"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI / LLMs</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cerebras-000000?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenRouter-6366f1?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,kubernetes,github&theme=dark"/></a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
+
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
+
+```sql
+SELECT discipline, test_coverage, consistency
+FROM   dhia.daily_routine
+WHERE  mode = 'backend_excellence'
+ORDER  BY clean_code DESC;
+-- → ships tested, reviewed code — one commit at a time ☕
+```
+
+<div align="center">
+
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebai-dhia&theme=tokyonight" width="97%"/> -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sebai-dhia&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebai-dhia&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sebai-dhia&theme=tokyonight" width="32%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sebai-dhia&theme=tokyonight&hide_border=true&background=0d1117&ring=0095D5&fire=6DB33F&currStreakLabel=0095D5" alt="streak"/>
+</div>
+
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin"/>
+</picture>
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Let's Connect
+
+```bash
+$ echo "Open to collaborations, backend challenges & great engineering culture 🚀"
+$ whoami
+> sebai-dhia · Kotlin/Java backend engineer · Tunisia
+```
+
+<div align="center">
+
+If something here helped you, a ⭐ goes a long way!
+
+<a href="https://www.linkedin.com/in/sebai-dhia-eddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dhiaeddin.sebai.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sebai-dhiaeddin.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:6DB33F&height=120&section=footer" alt="footer"/>
+
 </div>
